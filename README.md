@@ -19,7 +19,9 @@
 
 
 ## References
-Since this was a college mini project ,all the materials and resources provided , are from ISKCON's official website and lectures are presented by HG Shri Amogh Lila Prabhu.
+*Since this was a college mini project ,all the materials and resources provided , are from ISKCON's official website and lectures are presented by HG Shri Amogh Lila Prabhu.*
+
+
 
 
 
