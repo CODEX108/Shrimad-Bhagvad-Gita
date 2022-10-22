@@ -2,7 +2,7 @@
 
 A mini project based on android implemented using Java and Firebase 
 
-| Syntax      | Description | Test Text     |
+|       |  |      |
 | :---        |    :----:   |          ---: |
 | ![image](https://user-images.githubusercontent.com/82377810/197323719-2842b30a-a733-4408-bdec-41a78fbff705.png)   | ![image](https://user-images.githubusercontent.com/82377810/197323737-d861a715-6177-4700-b8fb-6af64752edbc.png)      | ![image](https://user-images.githubusercontent.com/82377810/197323745-f5ace789-3d8e-4c87-ac65-7356a676440c.png)   |
 | ![image](https://user-images.githubusercontent.com/82377810/197323763-0a49ecea-157e-4d8b-ab40-80cd650f6a5a.png)   | ![image](https://user-images.githubusercontent.com/82377810/197323769-26a96b33-5db5-413a-b543-082b8fad74ab.png)        | ![image](https://user-images.githubusercontent.com/82377810/197323778-22626338-6c6b-4e12-b34f-77882ebcb442.png)      |
