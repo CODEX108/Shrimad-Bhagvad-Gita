@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navi_home">
+
+    <fragment android:id="@+id/navi_home"
+        android:name="com.example.miniproject.ui.home.home_fragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home_fragment"/>
+
+    <fragment android:id="@+id/navi_about"
+        android:name="com.example.miniproject.ui.about.About_fragment"
+        android:label="About"
+        tools:layout="@layout/fragment_about_fragment"/>
+
+    <fragment android:id="@+id/navi_gallery"
+        android:name="com.example.miniproject.ui.gallery.gallery_fragment"
+        android:label="Chapters"
+        tools:layout="@layout/fragment_gallery_fragment"/>
+
+
+</navigation>

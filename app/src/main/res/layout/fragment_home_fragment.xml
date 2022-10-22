@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.home.home_fragment"
+    android:background="#FFF7DA"
+   >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ViewFlipper
+                android:id="@+id/flipper"
+                android:layout_width="match_parent"
+                android:layout_height="280dp"
+                android:layout_gravity="center">
+
+            </ViewFlipper>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="90dp"
+                android:layout_marginTop="36dp"
+                android:fontFamily="@font/adamina"
+                android:text="GLORIES OF GITA"
+                android:textColor="#F44336"
+                android:textSize="@dimen/title_size"
+                android:textStyle="bold"
+                tools:ignore="SpUsage">
+
+            </TextView>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/adamina"
+                android:text="@string/about_gita"
+                android:textColor="#AC8102"
+                android:textSize="@dimen/text_size1"
+                android:textStyle="normal"
+                tools:ignore="SpUsage">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/adamina"
+                android:text="@string/info_gita"
+                android:textColor="#755802"
+                android:textSize="@dimen/text_size1"
+                android:textStyle="normal"
+                tools:ignore="SpUsage">
+
+            </TextView>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/adamina"
+                android:text="@string/gitopanishad"
+                android:textColor="#AC8102"
+                android:textSize="@dimen/text_size1"
+                android:textStyle="normal"
+                tools:ignore="SpUsage">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/adamina"
+                android:text="@string/cow"
+                android:textColor="#755802"
+                android:textSize="@dimen/text_size1"
+                android:textStyle="normal"
+                tools:ignore="SpUsage">
+
+            </TextView>
+
+
+
+            <LinearLayout
+                android:layout_width="390dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:src="@drawable/garland"/>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="390dp"
+                    android:src="@drawable/five"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:fontFamily="@font/adamina"
+                    android:text="@string/cycle"
+                    android:textColor="#AC8102"
+                    android:textSize="@dimen/text_size1"
+                    android:textStyle="normal"
+                    tools:ignore="SpUsage"/>
+
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:src="@drawable/garland"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="100dp"
+                    android:layout_marginTop="40dp"
+                    android:fontFamily="@font/adamina"
+                    android:text="CONTACT US"
+                    android:textColor="#FF5722"
+                    android:textSize="@dimen/title_size"
+                    android:textStyle="bold"
+                    tools:ignore="SpUsage"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="15dp"
+                    android:fontFamily="@font/alegreya_sc"
+                    android:icon="@drawable/ic_baseline_email_24"
+                    android:text="@string/iskon_email"
+                    android:textColor="#834F03"
+                    android:textSize="@dimen/text_size"
+                    tools:ignore="SpUsage" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="@font/alegreya_sans_sc_extrabold"
+                    android:text="@string/call_details"
+                    android:textColor="#955A03"
+                    android:textSize="@dimen/text_size"
+                    tools:ignore="SpUsage" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:fontFamily="@font/alegreya_sc"
+                    android:text="@string/address"
+                    android:textColor="#915906"
+                    android:textSize="@dimen/text_size"
+                    tools:ignore="SpUsage" />
+
+                <ImageView
+                    android:id="@+id/map_iskon"
+                    android:layout_width="400dp"
+                    android:layout_height="230dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/map" />
+
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</FrameLayout>

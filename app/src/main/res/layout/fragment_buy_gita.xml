@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8EFD2"
+    tools:context=".buyGita"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="382dp"
+        android:layout_height="411dp"
+        android:src="@drawable/logo" />
+
+    <Button
+        android:id="@+id/buybtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="30dp"
+        android:background="@drawable/btn_sign_up"
+        android:text="BUY GITA"
+        android:textStyle="bold"
+        app:backgroundTint="@null"
+        tools:ignore="UsingOnClickInXml" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

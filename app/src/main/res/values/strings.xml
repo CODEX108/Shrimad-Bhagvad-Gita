@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MiniProject</string>
+    <string name="shrimad_bhagvad_gita">SHRIMAD BHAGVAD GITA</string>
+    <string name="the_eternal_guide">The Eternal Guide</string>
+    <string name="garland">garland</string>
+    <string name="namaste">Namaste!</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="number">Phone Number</string>
+    <string name="email_id">Email id</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+    <string name="logo">logo</string>
+    <string name="reset_password">RESET PASSWORD</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="address">ISKCON®, Hare Krishna Land, Sri Mukteshwar Devalaya Rd, Marg, Sainath Nagar, MHADA Colony, Juhu, Mumbai, Maharashtra 400049</string>
+    <string name="info_gita">The Bhagavad-gita can be consulted in all critical times, not only for solace from all kinds of mental agonies, but also for the way out of great entanglements which may embarrass one in some critical hour. If one properly follows the instructions of Bhagavad-gita, one can be freed from all miseries and anxieties in this life, and one\'s next life will be spiritual.</string>
+    <string name="about_gita">Bhagavad-gita is a standard book of knowledge coming down from time immemorial. As stated by Lord Krishna Himself in the Gita, He spoke Bhagavad-gita first to the sun-god Vivasvan. According to a rough estimate, the Gita was spoken at least 120,400,000 years ago! It was again spoken by the Lord to Arjuna about five thousand years ago.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="iskon_email">info@iskconmumbai.com</string>
+    <string name="call_details">Call on : 91 (22) 2621-5611 / 2621-5632</string>
+    <string name="quote">Ignorance is the cause of boundage and knowledge is the cause of liberation -SBG4.38</string>
+    <string name="message">Namaskar dear rasikas! Manjiri here, the sole purpose of creating this app is to enlighten everyone with the etrenal source of Knowledge.Bhagvad Gita encourages us to live life with purity, strength, discipline, honesty, kindness and integrity in order to find our purpose and to live it fully.So come join the journey ,not as a GURU but as a GUIDE and spread happiness.\n\n All the material and resources  provided , are from ISKON\'s official website and lectures are presented by HG Shri Amogh Lila Prabhu (Vice President of ISKCON Dwarka at Delhi.)\n\n  Hare Krishna!</string>
+    <string name="title_activity_ebook">ebookActivity</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="cycle">Five thousand years ago the theological science of Bhagavad Gita was spoken by Sri Krishna the Supreme Personality of Godhead to His disciple Sri Arjuna. It stands supreme in its doctrines as the principles of religion were enunciated by God Himself. There are five main themes illustrated in the Bhagavad-gita. \n\n1.They are: Ishvara – The Supreme Lord, \n\n2.Jiva – The Living Entity,\n\n3. Prakruti – The Material Nature, \n\n4.Kala – Eternal Time and \n\n5.Karma – Activities.</string>
+    <string name="gitopanishad">Bhagavad-gita, also called Gitopanishad, is the essence of Vedic knowledge. The study of the Vedas and Puranas - verily, the study of all scriptures is completed in all respects by one who studies the Gita with devotion.</string>
+    <string name="cow">This Gitopanisad, Bhagavad-gita, the essence of all the Upanishads, is just like a cow, and Lord Krishna, who is famous as a cowherd boy, is milking this cow. Arjuna is just like a calf, and learned scholars and pure devotees are to drink the nectarean milk of Bhagavad-gita. (Introduction to Bhagavad-gita As It Is)</string>
+</resources>
