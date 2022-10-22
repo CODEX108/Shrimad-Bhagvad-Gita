@@ -1,6 +1,6 @@
 # Shrimad-Bhagvad-Gita
 
-- **Goal** : An android app which helps one to gain enlightment from the eternal source of knowlegde that is  **THE SHRIMAD BHAGVAD GITA** , you can learn, listen and buy Gita through this platform.
+> **Goal** : An android app which helps one to gain enlightment from the eternal source of knowlegde that is  **THE SHRIMAD BHAGVAD GITA** , you can learn, listen and buy Gita through this platform.
 
 - **Tech Stack and Tools** : Java , Firebase , Android Studio 
 
